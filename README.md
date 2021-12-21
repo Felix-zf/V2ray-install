@@ -32,7 +32,7 @@ bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/in
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
-## Stargazers over time
+# Stargazers over time
 [![Stargazers over time](https://starchart.cc/jinwyp/one_click_script.svg)](https://starchart.cc/jinwyp/one_click_script)
 
 
