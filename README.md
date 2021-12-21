@@ -11,7 +11,7 @@ CentOS:(Curl安装):
 yum update -y && yum update -y && yum install -y socat
 ```
 # 开启自带 BBR 加速
-## DebianBBR2加速：
+### DebianBBR2加速：
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
