@@ -24,4 +24,7 @@ Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
- 
+# VPS测试脚本 
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
+```
