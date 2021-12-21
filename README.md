@@ -50,10 +50,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
 
 # Stargazers over time
-
 [![Stargazers over time](https://starchart.cc/jinwyp/one_click_script.svg)](https://starchart.cc/jinwyp/one_click_script)
+
+
+
 [better-cloudflare-ip]: https://github.com/badafans/better-cloudflare-ip/releases
 [CFIP]: https://github.com/BlueSkyXN/CFIP/releases
 [CloudflareScanner]: https://github.com/Spedoske/CloudflareScanner/releases/tag/1.1.2
 [CloudflareSpeedTest]: https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v1.4.9
+
 
