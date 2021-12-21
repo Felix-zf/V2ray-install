@@ -32,12 +32,23 @@ bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/in
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
+# 特别感谢 Special Thanks
+
+1. 脚本感谢 https://github.com/sprov065/v2-ui 
+2. 脚本感谢 https://github.com/Jrohy/trojan 
+3. 脚本感谢 https://github.com/v2fly/v2ray-core
+4. 脚本感谢 https://github.com/XTLS/Xray-core
+5. 脚本感谢 https://github.com/trojan-gfw/trojan
+6. 脚本感谢 https://github.com/p4gefau1t/trojan-go
+7. 脚本感谢 https://github.com/ylx2016/Linux-NetSpeed
+8. 脚本感谢 秋水逸冰、Atrandys、V2ray官方 和 波仔分享 等 
+9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
+
 # Stargazers over time
+
 [![Stargazers over time](https://starchart.cc/jinwyp/one_click_script.svg)](https://starchart.cc/jinwyp/one_click_script)
-
-
-
 [better-cloudflare-ip]: https://github.com/badafans/better-cloudflare-ip/releases
 [CFIP]: https://github.com/BlueSkyXN/CFIP/releases
 [CloudflareScanner]: https://github.com/Spedoske/CloudflareScanner/releases/tag/1.1.2
 [CloudflareSpeedTest]: https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v1.4.9
+
