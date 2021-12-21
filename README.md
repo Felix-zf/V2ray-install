@@ -27,7 +27,7 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
-### Trojan
+### Trojan:
 ```
 apt install -y wget;wget --no-check-certificate https://github.com/trojanpanel/install-script/raw/main/install_script.sh;chmod 777 install_script.sh;./install_script.sh
 ```
