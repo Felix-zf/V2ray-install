@@ -38,7 +38,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 ```
 # 特别感谢 Special Thanks
 
-1. 脚本感谢 https://github.com/sprov065/v2-ui 
+1. 脚本感谢 https://github.com/233boy/v2ray 
 2. 脚本感谢 https://github.com/Jrohy/trojan 
 3. 脚本感谢 https://github.com/v2fly/v2ray-core
 4. 脚本感谢 https://github.com/XTLS/Xray-core
