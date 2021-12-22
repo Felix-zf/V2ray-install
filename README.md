@@ -13,7 +13,7 @@ yum update -y && yum update -y && yum install -y socat
 ```
 
 # 开启自带 BBR 加速
-### DebianBBR2加速：
+  ### DebianBBR2加速：
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
@@ -51,7 +51,7 @@ wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.
 5. 脚本感谢 https://github.com/trojan-gfw/trojan
 6. 脚本感谢 https://github.com/p4gefau1t/trojan-go
 7. 脚本感谢 https://github.com/jinwyp/one_click_script
-8. 脚本感谢 https://github.com/trojanpanel/install-script
+8. 脚本感谢 https://github.com/sjlleo/netflix-verify
 9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
 10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
 
