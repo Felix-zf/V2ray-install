@@ -3,11 +3,11 @@
 - 自备VPS和域名
 
 # 环境搭建
-### Debian:(Curl安装):
+  ### Debian:(Curl安装):
 ```
 apt update -y && apt install -y curl && apt install -y socat
 ```
-### CentOS:(Curl安装):
+  ### CentOS:(Curl安装):
 ```
 yum update -y && yum update -y && yum install -y socat
 ```
@@ -19,15 +19,15 @@ wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/
 ```
 
 # 脚本搭建
-### V2ray:
+  ### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
-### Xray:
+  ### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
-### Trojan:
+  ### Trojan:
 ```
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
@@ -36,6 +36,12 @@ curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
+
+# Netflix解锁检测脚本
+```
+wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.61_linux_amd64 && chmod +x nf && clear && ./nf
+```
+
 # 特别感谢 Special Thanks
 
 1. 脚本感谢 https://github.com/233boy/v2ray 
