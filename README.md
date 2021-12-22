@@ -59,5 +59,5 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 [CloudflareScanner]: https://github.com/Spedoske/CloudflareScanner/releases/tag/1.1.2
 [CloudflareSpeedTest]: https://github.com/XIU2/CloudflareSpeedTest/releases/tag/v1.4.9
 
-![Saber](https://i0.hdslb.com/bfs/article/752b372013f8830815fe5e304b82293e00fdaf9f.jpg@942w_1319h_progressive.webp)
+![Saber](https://i0.hdslb.com/bfs/article/a0dddf0b8ad6659087fc996bd5bd5c72659aee60.png@942w_1403h_progressive.webp)
 
