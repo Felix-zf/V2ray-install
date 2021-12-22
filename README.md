@@ -44,7 +44,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 4. 脚本感谢 https://github.com/XTLS/Xray-core
 5. 脚本感谢 https://github.com/trojan-gfw/trojan
 6. 脚本感谢 https://github.com/p4gefau1t/trojan-go
-7. 脚本感谢 https://github.com/ylx2016/Linux-NetSpeed
+7. 脚本感谢 https://github.com/jinwyp/one_click_script
 8. 脚本感谢 https://github.com/trojanpanel/install-script
 9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
 10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
