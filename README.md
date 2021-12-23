@@ -67,5 +67,5 @@ wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.
 
 PS: 💖💖💖Have a good time every day!ヾ(≧▽≦*)o🎄🎈🎈
 
-![Tifa](https://github.com/Felix-zf/Picture-Store/blob/master/img/R1.jpg?raw=true)
+![Saber](https://github.com/Felix-zf/Picture-Store/blob/master/img/R1.jpg?raw=true)
 
