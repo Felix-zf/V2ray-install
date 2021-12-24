@@ -42,6 +42,16 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.61_linux_amd64 && chmod +x nf && clear && ./nf
 ```
 
+# 解锁Netflix非自制剧
+···
+bash <(curl -fsSL git.io/warp.sh) menu
+···
+
+- 重启 WARP WireGuard
+···
+systemctl restart wg-quick@wgcf
+···
+
 # 特别感谢 Special Thanks
 
 1. 脚本感谢 https://github.com/233boy/v2ray 
