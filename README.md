@@ -43,6 +43,7 @@ wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.
 ```
 
 # 解锁Netflix非自制剧
+- 执行菜单
 ```
 bash <(curl -fsSL git.io/warp.sh) menu
 ```
