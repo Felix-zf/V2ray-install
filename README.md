@@ -37,13 +37,13 @@ curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
-# Netflix解锁检测脚本
+# Netflix解锁自制剧
+- 检测Netflix
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.61_linux_amd64 && chmod +x nf && clear && ./nf
 ```
 
-# 解锁Netflix非自制剧
-- 执行菜单
+- 解锁Netflix非自制剧
 ```
 bash <(curl -fsSL git.io/warp.sh) menu
 ```
