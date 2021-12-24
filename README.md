@@ -2,6 +2,12 @@
 - 科学上网搭建脚本代码，VPS服务器搭建系统最好选择 Debian9或以上  
 - 自备VPS和域名
 
+# VPS测试脚本 
+- 检测Vps状态信息
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
+```
+
 # 环境搭建
   ### Debian:(Curl安装):
 ```
@@ -30,12 +36,6 @@ bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/in
   ### Trojan:
 ```
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
-```
-
-# VPS测试脚本 
-- 检测Vps状态信息
-```
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
 # Netflix解锁自制剧
