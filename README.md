@@ -54,7 +54,7 @@ bash <(curl -fsSL git.io/warp.sh) menu
 systemctl restart wg-quick@wgcf
 ```
 
-- 关闭WARP WireGuard
+- 关闭 WARP WireGuard
 ```
 systemctl disable wg-quick@wgcf --now
 ```
