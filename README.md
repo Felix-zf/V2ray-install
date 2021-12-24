@@ -33,6 +33,7 @@ curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_
 ```
 
 # VPS测试脚本 
+- 检测vps的状态信息
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
