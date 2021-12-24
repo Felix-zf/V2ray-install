@@ -19,6 +19,7 @@ wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/
 ```
 
 # 脚本搭建
+- 一键脚本安装
   ### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
