@@ -60,7 +60,6 @@ systemctl disable wg-quick@wgcf --now
 ```
 
 ## 特别感谢 Special Thanks
-
 1. 脚本感谢 https://github.com/233boy/v2ray 
 2. 脚本感谢 https://github.com/Jrohy/trojan 
 3. 脚本感谢 https://github.com/v2fly/v2ray-core
@@ -71,6 +70,7 @@ systemctl disable wg-quick@wgcf --now
 8. 脚本感谢 https://github.com/sjlleo/netflix-verify
 9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
 10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
+
 
 ## Stargazers over time
 [![Stargazers over time](https://starchart.cc/jinwyp/one_click_script.svg)](https://starchart.cc/jinwyp/one_click_script)
