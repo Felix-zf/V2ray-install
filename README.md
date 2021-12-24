@@ -54,6 +54,11 @@ bash <(curl -fsSL git.io/warp.sh) menu
 systemctl restart wg-quick@wgcf
 ```
 
+- 关闭WARP
+···
+systemctl disable wg-quick@wgcf --now
+···
+
 ## 特别感谢 Special Thanks
 
 1. 脚本感谢 https://github.com/233boy/v2ray 
