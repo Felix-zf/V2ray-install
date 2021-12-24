@@ -18,8 +18,7 @@ yum update -y && yum update -y && yum install -y socat
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
 
-# 脚本搭建
-- 一键脚本安装
+# 一键脚本搭建
   ### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
