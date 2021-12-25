@@ -29,7 +29,7 @@ yum update -y && yum update -y && yum install -y socat
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
 
-  ### BBR Plus(多合一)
+  ### BBRPlus (多合一)
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
