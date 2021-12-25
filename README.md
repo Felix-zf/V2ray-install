@@ -25,15 +25,15 @@ wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/
 ```
 
 ## 一键脚本搭建
-- V2ray:
+### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
-- Xray:
+### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
-- Trojan:
+### Trojan:
 ```
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
