@@ -24,7 +24,7 @@ yum update -y && yum update -y && yum install -y socat
 ```
 
 ## BBR 加速
-  ### BBR一键加速：
+  ### 加速菜单：
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
