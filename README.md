@@ -74,6 +74,13 @@ systemctl restart wg-quick@wgcf
 systemctl disable wg-quick@wgcf --now
 ```
 
+## 附加命令
+- 时间设置
+```
+rm -rf /etc/localtime
+ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
+```
+
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/233boy/v2ray 
 2. 脚本感谢 https://github.com/Jrohy/trojan 
