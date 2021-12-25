@@ -24,6 +24,12 @@ yum update -y && yum update -y && yum install -y socat
 ```
 
 ## BBR 加速
+
+  ### DebianBBR2加速：
+```
+wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
+```
+
   ### DebianBBR2加速：
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
