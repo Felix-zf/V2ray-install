@@ -24,14 +24,19 @@ yum update -y && yum update -y && yum install -y socat
 ```
 
 ## BBR 加速
-### Google原版BBR
+  ### Google原版BBR
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
 
-  ### BBR+BBRPLUS+BBR2
+  ### BBR+BBRPLUS
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
+```
+
+  ### BBR2
+```
+wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
 
 ## 脚本搭建
