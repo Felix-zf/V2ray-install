@@ -75,7 +75,7 @@ systemctl disable wg-quick@wgcf --now
 ```
 
 ## 附加命令
-- 时间设置
+- 校准时间v2ray
 ```
 rm -rf /etc/localtime  /*删除*/
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
