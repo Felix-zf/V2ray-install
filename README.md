@@ -29,12 +29,12 @@ yum update -y && yum update -y && yum install -y socat
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
 
-  ### BBR Plus(四合一)
+  ### BBR Plus(多合一)
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
-  ### BBR2
+  ### BBR2（限Debian）
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
