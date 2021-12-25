@@ -13,12 +13,12 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
-## 环境搭建
-  ### Debian:(Curl安装):
+## Curl安装
+  ### Debian：
 ```
 apt update -y && apt install -y curl && apt install -y socat
 ```
-  ### CentOS:(Curl安装):
+  ### CentOS：
 ```
 yum update -y && yum update -y && yum install -y socat
 ```
@@ -39,7 +39,7 @@ wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
 
-## 脚本搭建
+## 环境搭建
   ### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
