@@ -74,7 +74,8 @@ systemctl restart wg-quick@wgcf
 systemctl disable wg-quick@wgcf --now
 ```
 
-## OpenWrt软路由设置
+## OpenWrt
+- 软路由设置
 ```
 vi /etc/sysconfig/network  /*修改IP,Insert输入，Esc退出*/
 :wq     /*保存，回车键退出*/
