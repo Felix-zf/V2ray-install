@@ -34,7 +34,7 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
-  ### BBR2（限Debian）
+  ### BBR2 (限Debian)
 ```
 wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/raw/master/bbr2.sh" && chmod +x bbr2.sh && bash bbr2.sh auto
 ```
