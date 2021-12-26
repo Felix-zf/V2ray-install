@@ -89,7 +89,7 @@ ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
 ```
 - 其它命令
 ```
-reboot  /*重启*/
+./tcp.sh  /*重新连接服务器*/
 v2ray url  /*获取订阅链接*/
 ```
 
