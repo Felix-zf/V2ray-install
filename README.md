@@ -74,6 +74,11 @@ systemctl restart wg-quick@wgcf
 systemctl disable wg-quick@wgcf --now
 ```
 
+## OpenWrt软路由设置
+```
+
+```
+
 ## 附加命令
 - 校准时间V2ray
 ```
