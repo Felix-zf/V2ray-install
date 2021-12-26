@@ -78,7 +78,7 @@ systemctl disable wg-quick@wgcf --now
 - 修改IP(OpenWrt)
 ```
 vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
-:wq     /*保存，回车键退出*/
+:wq  /*保存，回车键退出*/
 reboot  /*重启*/
 ```
 
