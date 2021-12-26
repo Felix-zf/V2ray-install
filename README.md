@@ -81,10 +81,10 @@ rm -rf /etc/localtime  /*删除*/
 ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
 ```
 - 其它命令
-···
+```
 reboot  /*重启*/
 v2ray url  /*获取订阅链接*/
-···
+```
 
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/233boy/v2ray 
