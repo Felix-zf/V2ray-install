@@ -75,7 +75,7 @@ systemctl disable wg-quick@wgcf --now
 ```
 
 ## 软路由
-- 桥接模式 (VMware)
+- 桥接模式 (旁路由)
 ```
 vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
 :wq   /*修改IP保存，回车键退出*/
