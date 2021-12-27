@@ -82,6 +82,12 @@ vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
 reboot  /*重启*/
 ```
 
+- 固件&写盘
+```
+https://openwrt.org/  /*系统(OpenWrt)*/
+https://m0n0.ch/wall/physdiskwrite.php  /*写盘工具*/
+```
+
 ## 附加命令
 - 校准时间V2ray
 ```
