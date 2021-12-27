@@ -78,7 +78,7 @@ systemctl disable wg-quick@wgcf --now
 - 桥接模式 (旁路由)
 ```
 vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
-:wq   /*内网IP段保存，回车键退出*/
+:wq     /*内网IP段保存，回车键退出*/
 reboot  /*重启*/
 ```
 
@@ -96,7 +96,7 @@ ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
 ```
 - 其它命令
 ```
-./tcp.sh  /*重新连接服务器*/
+./tcp.sh   /*重新连接服务器*/
 v2ray url  /*获取订阅链接*/
 ```
 
