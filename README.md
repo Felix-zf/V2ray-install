@@ -75,10 +75,10 @@ systemctl disable wg-quick@wgcf --now
 ```
 
 ## 软路由
-- 修改IP (OpenWrt)
+- 桥接模式 (VMware)
 ```
 vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
-:wq   /*保存，回车键退出*/
+:wq   /*修改IP保存，回车键退出*/
 reboot  /*重启*/
 ```
 
