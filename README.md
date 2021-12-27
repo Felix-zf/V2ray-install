@@ -74,18 +74,6 @@ systemctl restart wg-quick@wgcf
 systemctl disable wg-quick@wgcf --now
 ```
 
-## 软路由
-- 桥接模式 (旁路由)
-```
-vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
-:wq     /*内网IP段保存，回车键退出*/
-reboot  /*重启*/
-```
-
-- 固件&写盘
-https://openwrt.org/  /*系统:OpenWrt*/
-https://m0n0.ch/wall/physdiskwrite.php  /*写盘工具*/
-
 ## 附加命令
 - 校准时间V2ray
 ```
@@ -97,6 +85,19 @@ ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
 ./tcp.sh   /*重新连接服务器*/
 v2ray url  /*获取订阅链接*/
 ```
+
+## 软路由
+- 桥接模式 (旁路由)
+```
+vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
+:wq     /*内网IP段保存，回车键退出*/
+reboot  /*重启*/
+```
+- 固件&写盘
+1. https://openwrt.org/   /*系统:OpenWrt*/
+2. https://m0n0.ch/wall/physdiskwrite.php  /*写盘工具*/
+
+
 
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/233boy/v2ray 
