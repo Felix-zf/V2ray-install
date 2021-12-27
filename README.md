@@ -95,8 +95,8 @@ reboot  /*重启*/
 ```
 
 - 固件&写盘
-1. https://openwrt.org/   /*系统:OpenWrt*/
-2. https://m0n0.ch/wall/physdiskwrite.php  /*写盘工具*/
+1. 固件系统:https://openwrt.org/     
+2. 写盘工具:https://m0n0.ch/wall/physdiskwrite.php  
 
 
 ## 游戏加速器
