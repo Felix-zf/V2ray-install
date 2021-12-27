@@ -78,7 +78,7 @@ systemctl disable wg-quick@wgcf --now
 - 桥接模式 (旁路由)
 ```
 vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
-:wq   /*修改IP保存，回车键退出*/
+:wq   /*内网IP段保存，回车键退出*/
 reboot  /*重启*/
 ```
 
