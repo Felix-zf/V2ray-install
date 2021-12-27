@@ -95,13 +95,13 @@ reboot  /*重启*/
 ```
 
 - 固件&写盘
-1. 固件系统:https://openwrt.org/     
-2. 写盘工具:https://m0n0.ch/wall/physdiskwrite.php  
+1. 固件系统: https://openwrt.org/     
+2. 写盘工具: https://m0n0.ch/wall/physdiskwrite.php  
 
 
 ## 游戏加速器
-1. Netch:https://github.com/netchx/netch
-2. SSTap:https://github.com/FQrabbit/SSTap-Rule
+1. Netch: https://github.com/netchx/netch
+2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
 
 ## 特别感谢 Special Thanks
