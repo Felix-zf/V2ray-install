@@ -23,7 +23,7 @@ apt update -y && apt install -y curl && apt install -y socat
 yum update -y && yum update -y && yum install -y socat
 ```
 
-## BBR 加速
+## BBR加速
   ### Google原版BBR
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
