@@ -93,10 +93,15 @@ vi /etc/sysconfig/network  /*Insert输入，Esc退出*/
 :wq     /*内网IP段保存，回车键退出*/
 reboot  /*重启*/
 ```
+
 - 固件&写盘
 1. https://openwrt.org/   /*系统:OpenWrt*/
 2. https://m0n0.ch/wall/physdiskwrite.php  /*写盘工具*/
 
+
+## 游戏加速器
+1. Netch:https://github.com/netchx/netch
+2. SSTap:https://github.com/FQrabbit/SSTap-Rule
 
 
 ## 特别感谢 Special Thanks
