@@ -53,7 +53,7 @@ bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/in
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
-## Netflix解锁自制剧
+## Netflix
 - 检测Netflix状态信息
 ```
 wget -O nf https://github.com/sjlleo/netflix-verify/releases/download/2.61/nf_2.61_linux_amd64 && chmod +x nf && clear && ./nf
