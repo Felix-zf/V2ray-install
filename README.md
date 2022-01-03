@@ -105,8 +105,8 @@ reboot  /*重启*/
 
 
 ## 特别感谢 Special Thanks
-1. 脚本感谢 https://github.com/233boy/v2ray 
-2. 脚本感谢 https://github.com/Jrohy/trojan 
+1. 脚本感谢 https://github.com/Jrohy/trojan
+2. 脚本感谢 https://github.com/233boy/v2ray
 3. 脚本感谢 https://github.com/fscarmen/warp
 4. 脚本感谢 https://github.com/XTLS/Xray-core
 5. 脚本感谢 https://github.com/v2fly/v2ray-core
