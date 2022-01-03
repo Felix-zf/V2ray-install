@@ -107,12 +107,12 @@ reboot  /*重启*/
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/233boy/v2ray 
 2. 脚本感谢 https://github.com/Jrohy/trojan 
-3. 脚本感谢 https://github.com/v2fly/v2ray-core
+3. 脚本感谢 https://github.com/fscarmen/warp
 4. 脚本感谢 https://github.com/XTLS/Xray-core
-5. 脚本感谢 https://github.com/trojan-gfw/trojan
+5. 脚本感谢 https://github.com/v2fly/v2ray-core
 6. 脚本感谢 https://github.com/p4gefau1t/trojan-go
 7. 脚本感谢 https://github.com/jinwyp/one_click_script
-8. 脚本感谢 https://github.com/fscarmen/warp
+8. 脚本感谢 https://github.com/trojan-gfw/trojan
 9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
 10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
 
