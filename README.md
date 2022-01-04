@@ -103,8 +103,10 @@ reboot  /*重启*/
 1. Netch: https://github.com/netchx/netch
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
-## V2Board面板搭建
-1. aaPanel: https://docs.v2board.com/deploy/aapanel.html
+## 面板搭建
+1. X-ui: https://mgxray.xyz/index.php/archives/362/
+2. V2Board: https://docs.v2board.com/deploy/aapanel.html
+
 
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/Jrohy/trojan
