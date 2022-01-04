@@ -104,7 +104,7 @@ reboot  /*重启*/
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
 ## 面板搭建
-1. X-ui: https://mgxray.xyz/index.php/archives/362/
+1. X-ui: https://www.v2rayssr.com/x-ui.html
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
 
 
