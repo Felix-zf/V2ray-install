@@ -104,7 +104,7 @@ reboot  /*重启*/
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
 ## V2Board后端搭建
-1. aaPanel手动部署: https://docs.v2board.com/deploy/aapanel.html
+1. aaPanel: https://docs.v2board.com/deploy/aapanel.html
 
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/Jrohy/trojan
