@@ -103,7 +103,7 @@ reboot  /*重启*/
 1. Netch: https://github.com/netchx/netch
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
-## V2Board后端搭建
+## V2Board面板搭建
 1. aaPanel: https://docs.v2board.com/deploy/aapanel.html
 
 ## 特别感谢 Special Thanks
