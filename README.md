@@ -44,6 +44,11 @@ wget --no-check-certificate -q -O bbr2.sh "https://github.com/yeyingorg/bbr2.sh/
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
+
+```
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
+```
+
   ### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
