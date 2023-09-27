@@ -25,6 +25,7 @@ yum update -y && yum update -y && yum install -y socat
 
 ## BBR加速
 - Linuux系统内核版本>4.9,输入uname -r查询
+- 安装完毕输入reboot重启
   ### Google原版BBR
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
