@@ -23,6 +23,25 @@ apt update -y && apt install -y curl && apt install -y socat
 yum update -y && yum update -y && yum install -y socat
 ```
 
+## 环境搭建
+  ### V2ray:
+```
+bash <(curl -s -L https://git.io/v2ray.sh)
+```
+
+```
+bash <(curl -s -L https://git.io/v2ray-setup.sh)
+```
+
+  ### Xray:
+```
+bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
+```
+  ### Trojan:
+```
+curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
+```
+
 ## BBR加速
 - Linuux系统内核版本>4.9,输入uname -r查询
 - 安装完毕输入reboot重启
@@ -42,25 +61,6 @@ echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
 echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
 sysctl -p
 lsmod | grep bbr
-```
-
-## 环境搭建
-  ### V2ray:
-```
-bash <(curl -s -L https://git.io/v2ray.sh)
-```
-
-```
-bash <(curl -s -L https://git.io/v2ray-setup.sh)
-```
-
-  ### Xray:
-```
-bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
-```
-  ### Trojan:
-```
-curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
 
 ## Netflix
