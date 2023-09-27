@@ -2,6 +2,7 @@
 - 科学上网搭建脚本代码，VPS服务器搭建系统最好选择 Debian9或以上  
 - 自备VPS和域名
 
+
 ## VPS测试 
 - 检测Vps状态信息 (普通)
 ```
@@ -13,6 +14,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
+
 ## Curl安装
   ### Debian：
 ```
@@ -22,6 +24,7 @@ apt update -y && apt install -y curl && apt install -y socat
 ```
 yum update -y && yum update -y && yum install -y socat
 ```
+
 
 ## 环境搭建
   ### V2ray:
@@ -33,14 +36,15 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 bash <(curl -s -L https://git.io/v2ray-setup.sh)
 ```
 
-  ### Xray:
+### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
-  ### Trojan:
+### Trojan:
 ```
 curl -O https://raw.githubusercontent.com/jinwyp/one_click_script/master/trojan_v2ray_install.sh && chmod +x ./trojan_v2ray_install.sh && ./trojan_v2ray_install.sh
 ```
+
 
 ## BBR加速
 - Linuux系统内核版本>4.9,输入uname -r查询
@@ -63,6 +67,7 @@ sysctl -p
 lsmod | grep bbr
 ```
 
+
 ## Netflix
 - 检测Netflix状态信息
 ```
@@ -84,6 +89,7 @@ systemctl restart wg-quick@wgcf
 systemctl disable wg-quick@wgcf --now
 ```
 
+
 ## 附加命令
 - 校准时间V2ray
 ```
@@ -95,6 +101,7 @@ ln -s /usr/share/zoneinfo/Asia/Shanghai /etc/localtime  /*设置*/
 ./tcp.sh   /*重新连接服务器*/
 v2ray url  /*获取订阅链接*/
 ```
+
 
 ## 软路由
 - 桥接模式 (旁路由)
@@ -112,6 +119,7 @@ reboot  /*重启*/
 ## 游戏加速器
 1. Netch: https://github.com/netchx/netch
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
+
 
 ## 面板搭建
 1. X-ui: https://www.v2rayssr.com/x-ui.html
