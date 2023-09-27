@@ -16,13 +16,13 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest
 
 
 ## Curl安装
-  ### Debian：
-```
-apt update -y && apt install -y curl && apt install -y socat
-```
-  ### CentOS：
+### CentOS：
 ```
 yum update -y && yum update -y && yum install -y socat
+```
+### Debian：
+```
+apt update -y && apt install -y curl && apt install -y socat
 ```
 
 
