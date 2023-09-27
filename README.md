@@ -26,18 +26,17 @@ yum update -y && yum update -y && yum install -y socat
 ## BBR加速
 - Linuux系统内核版本>4.9,输入uname -r查询
 - 安装完毕输入reboot重启
-
-  ### Google原版BBR
+### Google原版BBR
 ```
 wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh && chmod +x bbr.sh && ./bbr.sh
 ```
 
-  ### BBRPlus (多合一)
+### BBRPlus (多合一)
 ```
 wget -N --no-check-certificate "https://raw.githubusercontent.com/chiakge/Linux-NetSpeed/master/tcp.sh" && chmod +x tcp.sh && ./tcp.sh
 ```
 
-  ### BBR2 (Debian)
+### BBR2 (Debian)
 ```
 echo "net.core.default_qdisc=fq" >> /etc/sysctl.conf
 echo "net.ipv4.tcp_congestion_control=bbr" >> /etc/sysctl.conf
