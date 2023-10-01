@@ -4,6 +4,7 @@
 
 
 ## VPS测试 
+管理员权限sudo -i
 - VPS性能测试一键脚本
 ```
 wget -qO- git.io/superbench.sh | bash
