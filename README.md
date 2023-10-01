@@ -4,14 +4,14 @@
 
 
 ## VPS测试 
-- 检测Vps网络信息 (普通)
+- 一键检测VPS回程国内三网路由
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
-- 检测Vps网络信息 (完全)
+- BlueSkyXN综合工具箱
 ```
-wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
+wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 ```
 
 
