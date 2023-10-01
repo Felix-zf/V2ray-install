@@ -4,6 +4,11 @@
 
 
 ## VPS测试 
+- VPS性能测试一键脚本
+```
+wget -qO- git.io/superbench.sh | bash
+```
+
 - 一键检测VPS回程国内三网路由
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
