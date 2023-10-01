@@ -4,12 +4,12 @@
 
 
 ## VPS测试 
-- 检测Vps状态信息 (普通)
+- 检测Vps网络信息 (普通)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
 
-- 检测Vps状态信息 (完全)
+- 检测Vps网络信息 (完全)
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/91yun/91yuntest/master/test_91yun.sh && bash test_91yun.sh
 ```
