@@ -127,10 +127,10 @@ reboot  /*重启*/
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
 
-## 其他搭建命令
+## 持续更新协议代码
 1. X-ui: https://www.v2rayssr.com/x-ui.html
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
-3. Hysteria2
+3. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script/
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
 ```
