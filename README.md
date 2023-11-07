@@ -33,7 +33,7 @@ apt update -y && apt install -y curl && apt install -y socat
 
 
 ## 环境搭建
-  ### Vmess:
+  ### V2ray:
 ```
 bash <(curl -s -L https://git.io/v2ray.sh)
 ```
@@ -42,7 +42,7 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 bash <(curl -s -L https://git.io/v2ray-setup.sh)
 ```
 
-### Vless:
+### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
 ```
