@@ -127,8 +127,8 @@ reboot  /*重启*/
 2. SSTap: https://github.com/FQrabbit/SSTap-Rule
 
 
-## 其他协议代码
-持续更新中
+## Other协议代码
+持续更新ing
 1. X-ui: https://www.v2rayssr.com/x-ui.html
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
 3. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script/
