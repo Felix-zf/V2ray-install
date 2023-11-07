@@ -1,4 +1,4 @@
-# Xray-V2ray搭建教程
+# V2ray-Xray搭建教程
 - 科学上网搭建脚本代码，VPS服务器搭建系统最好选择 Debian9或以上  
 - 自备VPS和域名
 
