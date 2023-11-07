@@ -131,7 +131,8 @@ reboot  /*重启*/
 持续更新ing
 1. X-ui: https://www.v2rayssr.com/x-ui.html
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
-3. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script/
+3. 8and1: https://github.com/mack-a/v2ray-agent
+4. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script/
 ```
 wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
 ```
