@@ -146,8 +146,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hys
 6. 脚本感谢 https://github.com/p4gefau1t/trojan-go
 7. 脚本感谢 https://github.com/jinwyp/one_click_script
 8. 脚本感谢 https://github.com/trojan-gfw/trojan
-9. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
-10. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
+9. 脚本感谢 https://github.com/FranzKafkaYu/x-ui
+10. 脚本感谢 JCNF的博客 https://ybfl.xyz/111.html
+11. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
 
 
 ## Stargazers over time
