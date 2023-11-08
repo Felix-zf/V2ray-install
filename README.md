@@ -133,7 +133,9 @@ reboot  /*重启*/
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
 3. 8combine1: https://github.com/mack-a/v2ray-agent
 4. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script
-
+```
+wget -N --no-check-certificate https://raw.githubusercontent.com/Misaka-blog/hysteria-install/main/hy2/hysteria.sh && bash hysteria.sh
+```
 
 ## 特别感谢 Special Thanks
 1. 脚本感谢 https://github.com/Jrohy/trojan
