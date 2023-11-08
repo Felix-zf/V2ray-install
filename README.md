@@ -132,7 +132,8 @@ reboot  /*重启*/
 1. X-ui: https://www.v2rayssr.com/x-ui.html
 2. V2Board: https://docs.v2board.com/deploy/aapanel.html
 3. 8combine1: https://github.com/mack-a/v2ray-agent
-4. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script
+4. Tuic-v5: https://gitlab.com/Misaka-blog/tuic-script
+5. Hysteria2: https://blog.misaka.rest/2023/09/02/hysteria2-script
 
 
 ## 特别感谢 Special Thanks
