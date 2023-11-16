@@ -41,7 +41,9 @@ bash <(curl -s -L https://git.io/v2ray.sh)
 ```
 bash <(curl -s -L https://git.io/v2ray-setup.sh)
 ```
-
+```
+bash <(curl -s -L https://git.io/v2rayinstall.sh)
+```
 ### Xray:
 ```
 bash <(curl -Ss https://raw.githubusercontent.com/paniy/Xray_bash_onekey/main/install.sh)
