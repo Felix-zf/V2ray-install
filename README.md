@@ -150,8 +150,9 @@ reboot  /*重启*/
 7. 脚本感谢 https://github.com/jinwyp/one_click_script
 8. 脚本感谢 https://github.com/trojan-gfw/trojan
 9. 脚本感谢 https://github.com/FranzKafkaYu/x-ui
-10. 特别感谢 MisaKaNo 的博客 [MisaKaNoの小破站](https://blog.misaka.rest/)
-11. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
+10. 脚本感谢 https://github.com/xyz690/v2ray/wiki
+11. 特别感谢 MisaKaNo 的博客 [MisaKaNoの小破站](https://blog.misaka.rest/)
+12. 特别感谢油管博主 [小六教学](https://www.youtube.com/channel/UCE8MoWhC8Fp1L9LbZw0I6kQ)
 
 
 ## Stargazers over time
