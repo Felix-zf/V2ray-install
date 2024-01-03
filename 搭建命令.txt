@@ -1,0 +1,14 @@
+wget -N --no-check-certificate https://raw.githubusercontent.com/Felix-zf/V2ray-install/main/hy2/hysteria.sh && bash hysteria.sh
+wget -N --no-check-certificate https://github.com/Felix-zf/V2ray-install/blob/main/v2ray.sh
+bash <(curl -s -L https://github.com/Felix-zf/V2ray-install/blob/main/install.sh)
+sz /root/hy/hy-client.json
+
+使用iptables：
+sudo apt-get update && sudo apt-get install iptables
+sudo iptables -A INPUT -p udp --dport 48654 -j ACCEPT
+sudo iptables-save
+使用ufw：
+安装:apt-get install ufw -y
+防火墙:ufw status | sudo ufw enable | sudo ufw disable
+放行端口:sudo ufw allow 443/udp 
+重置:ufw reset
